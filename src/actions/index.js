@@ -1,3 +1,5 @@
+import { UPDATE_STATE, UPDATE_STEP } from './actionTypes';
+
 export const updateState = (data) => {
     return {
         type: 'UPDATE_STATE',
@@ -6,9 +8,9 @@ export const updateState = (data) => {
 }
 
 
-export const updateTime = (data) => {
+export const updateStep = (data) => {
     return {
-        type: 'UPDATE_TIME',
+        type: 'UPDATE_STEP',
         payload: data
     }
 }
