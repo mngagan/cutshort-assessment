@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cutshort-web-assesment/static/css/main.6d520616.css",
+    "main.js": "/cutshort-web-assesment/static/js/main.8a745d4b.js",
+    "static/js/787.5023326c.chunk.js": "/cutshort-web-assesment/static/js/787.5023326c.chunk.js",
+    "index.html": "/cutshort-web-assesment/index.html",
+    "main.6d520616.css.map": "/cutshort-web-assesment/static/css/main.6d520616.css.map",
+    "main.8a745d4b.js.map": "/cutshort-web-assesment/static/js/main.8a745d4b.js.map",
+    "787.5023326c.chunk.js.map": "/cutshort-web-assesment/static/js/787.5023326c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d520616.css",
+    "static/js/main.8a745d4b.js"
+  ]
+}
